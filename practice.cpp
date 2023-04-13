@@ -1,6 +1,10 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+
+void smaple(){
+    cout<<"hello hpow are you";
+}
 bool is_prime(int n){
     int count=0;
     for(int i=1;i<=n;i++){
